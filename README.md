@@ -6,9 +6,9 @@ The above notebook contains a detailed overview of the binary operations on NumP
 ### Install
 To run the above notebook, you will require Python and the following library to be installed:
 
-- [NumPy](http://www.numpy.org/)
+- [NumPy](https://numpy.org/)
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://jupyter.org/index.html).
+You will also need to have software installed to run and execute a [Jupyter Notebook](https://jupyter.org/install).
 
 ### Getting Started
 Using the terminal, navigate to the project directory and run:
